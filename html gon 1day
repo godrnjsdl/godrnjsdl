@@ -1,0 +1,91 @@
+HTML 시작!
+
+vscode 다운로드
+
+1.마켓플레이스 이동 korea language pack for visual studio 다운로드 해서 한국어팩 적용
+
+2.마켓플레이스 live server 팩 다운로드 
+
+3. live server 작동확인  
+
+ 작성후 ctrl + S 버튼으로 저장후 작동확인
+ 
+ 설정 구글링후 적용하고 학습시작
+
+w3shcool 에서 html 학습
+ 
+ 
+  - <!DOCTYPE html> html 문서 선언하기
+  - <html></html> 
+  - <title> HTML 페이지 제목
+  - <h1> 하나의 큰제목 *제목은 h1~h6 으로 정의 1>6 순으로 덜중요한 순위
+  - <p> 제목안의 문단
+  - <hr> 주제 휴식,콘텐츠 분리 줄
+  - <br> 줄바꿈
+  - <pre></pre> 줄바꿈 유지    
+   
+  
+ ******** 
+ *예시
+ <!doctype html>
+ <html>
+ <head>
+    <title> TEST </title>
+ </head>
+ 
+ <body>
+   <h1> html study <h1>
+   <p1> study </p1>
+ </body>
+ </html>
+ **********
+ 
+ 
+ 
+ <제목사이즈 수정방법>  <h1> style="font-size:50px;" TEST </h1>
+
+ 
+ -html 링크 <a>태그  
+ #사용법예시
+ <a href="https:///www.w3schools.com"> 링크 </a>     herf= (링크로 이동 페이지  URL지정)
+ 
+ -lang 속성 웹페이지 언어 지정
+<!DOCTYPE html>
+<html lang="en">
+<body>
+...
+</body>
+</html>       en=영어 ko=한국어
+ 
+ -html 이미지  <img> 태그  
+ 이미지태그의 필수 속성 src=이미지 경로 
+                      alt=이미지 대체 텍스트
+ 
+<img src="이미지파일" (alt=이미지 파일이 안보일시 대체 텍스트)  width=너비 height높이 
+ 예시
+ <img src="gonstudy.jpg" alt="곤스터디" width="500" height"600">
+ 
+- style 속성 색상,폰트,크기 
+# style 색상 =  <style="color:red;"> 빨강색
+        폰트사이즈 =  <p "font-size:50px;"
+        폰트글꼴 =   <p "font-family:courier;"
+        배경색 = <p style="background-corol:red;"
+        
+
+        
+   
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
